@@ -1,0 +1,9 @@
+Readme
+-------------
+First, using Makefile by typing: make
+
+test my program:
+First argv is program name, second argv is a capture file here i use a sample one downlode from connex
+cmd line:./text sample-capture-file
+
+
